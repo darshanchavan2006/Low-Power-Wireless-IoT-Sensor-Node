@@ -42,7 +42,9 @@ The system consists of two ESP8266 NodeMCU boards.
           ┌───────────┼───────────┐
           ▼           ▼           ▼
         RSSI         PDR       Latency
-<img width="1919" height="1007" alt="image" src="https://github.com/user-attachments/assets/77469b71-0ba0-466e-afab-6652464b0a74" />
+        
+        
+<img width="1536" height="1024" alt="Wi-Fi DHT11 Sensor Network Schematic" src="https://github.com/user-attachments/assets/d2607c6e-4dac-46f0-b54a-c0cdfc06d4ad" />
 
 Objectives
 - Interface a DHT11 sensor with an ESP8266.
