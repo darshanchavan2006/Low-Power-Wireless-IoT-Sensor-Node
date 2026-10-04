@@ -8,11 +8,13 @@ Current status: Sensor interfacing, wireless communication, two-node communicati
 Project Overview
 The system consists of two ESP8266 NodeMCU boards.
                  SENSOR NODE
+             
               ┌───────────────┐
               │   DHT11       │
               │ Temperature   │
               │ + Humidity    │
               └───────┬───────┘
+            
                       │
                       ▼
               ┌───────────────┐
