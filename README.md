@@ -45,6 +45,7 @@ The system consists of two ESP8266 NodeMCU boards.
         
         
 <img width="1536" height="1024" alt="Wi-Fi DHT11 Sensor Network Schematic" src="https://github.com/user-attachments/assets/d2607c6e-4dac-46f0-b54a-c0cdfc06d4ad" />
+<img width="1600" height="1200" alt="Real Project" src="https://github.com/user-attachments/assets/0d0dc7b9-6625-4d53-8fd4-bdb4d6c4d1f6" />
 
 Objectives
 - Interface a DHT11 sensor with an ESP8266.
