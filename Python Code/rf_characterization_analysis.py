@@ -7,10 +7,6 @@ Reads rf_characterization_sample_data.csv and produces:
 3. Distance vs average latency
 4. A summary CSV
 
-IMPORTANT:
-The included CSV contains representative SAMPLE data for testing the
-analysis pipeline. Replace it with measurements from your NodeMCU setup
-before using the results in a report/resume.
 """
 
 import pandas as pd
