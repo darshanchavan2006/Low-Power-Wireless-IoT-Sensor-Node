@@ -16,9 +16,7 @@
 
   Serial Monitor: 115200 baud
 
-  IMPORTANT:
-  Keep this sketch in a SEPARATE Arduino sketch folder from
-  the transmitter sketch.
+
 */
 
 #include <ESP8266WiFi.h>
