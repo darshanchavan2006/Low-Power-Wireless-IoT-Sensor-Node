@@ -208,19 +208,19 @@ Adafruit Unified Sensor
 
 Project Structure
 Low-Power-Wireless-IoT-Sensor-Node/
+
+
 │
-├── Arduino/
+├── Arduino Code/
 │   │
-│   ├── Sensor_Node_Transmitter/
-│   │   └── Sensor_Node_Transmitter.ino
+│   ├── 
+│   │  ── Sensor_Node_Transmitter.ino
 │   │
-│   └── RF_Data_Logger_Receiver/
-│       └── RF_Data_Logger_Receiver.ino
+│   └── 
+│       ── RF_Data_Logger_Receiver.ino
 │
-├── Python/
+├── Python and Data/
 │   └── rf_characterization_analysis.py
-│
-├── Data/
 │   └── rf_characterization_sample_data.csv
 │
 ├── Results/
@@ -229,6 +229,7 @@ Low-Power-Wireless-IoT-Sensor-Node/
 │   └── distance_vs_latency.png
 │
 └── README.md
+
 
 How to Run
 1. Install ESP8266 Board Support
@@ -312,6 +313,7 @@ Planned
 - [ ] Final hardware enclosure
 Future Low-Power Architecture
 The planned low-power operating cycle is:
+    
         ┌──────────────┐
         │     WAKE     │
         └──────┬───────┘
