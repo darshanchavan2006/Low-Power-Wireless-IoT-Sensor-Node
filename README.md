@@ -214,11 +214,10 @@ Low-Power-Wireless-IoT-Sensor-Node/
 │
 ├── Arduino Code/
 │   │
-│   ├── 
-│   │  ── Sensor_Node_Transmitter.ino
-│   │
-│   └── 
-│       ── RF_Data_Logger_Receiver.ino
+│   ├──  ── Sensor_Node_Transmitter.ino
+│   │── ── RF_Data_Logger_Receiver.ino
+│   └──  ── Arduino Code with serial monitor image
+│      
 │
 ├── Python and Data/
 │   └── rf_characterization_analysis.py
@@ -286,6 +285,7 @@ Do not put both .ino files inside the same Arduino sketch folder because Arduino
 redefinition of 'setup()'
 redefinition of 'loop()'
 redefinition of 'ssid'
+<img width="1919" height="1199" alt="Screenshot 2026-10-04 180725" src="https://github.com/user-attachments/assets/ee483709-0a8b-4050-92c4-a003fa5a517f" />
 
 Current Project Status
 Completed
